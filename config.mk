@@ -340,3 +340,7 @@ PRODUCT_COPY_FILES += \
 
 # Bootanimation
 include vendor/addons/prebuilt/bootanimation/bootanimation.mk
+
+# Prebuilt packages
+PRODUCT_PACKAGES += \
+    InnerTune
